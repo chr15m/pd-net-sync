@@ -1,3 +1,5 @@
+# Deprecated. Use [SyncJams](http://github.com/chr15m/SyncJams) instead. #
+
 Utilities for synchronising the timing and data of Pd patches on a network.
 
  * netsync - share common data/GUIs between nodes on the network.
